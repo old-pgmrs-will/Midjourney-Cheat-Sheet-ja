@@ -223,7 +223,7 @@ Sameseedを指定すると、初期グリッド内のすべての画像で同じ
 | rim lighting | `film lighting` よりもやや強い照明効果ですが、非常によく似た仕上がりです。|
 | stained glass window | ステンドグラス風。ガラスに色をつけ様々な形にカットして絵や模様を描いたもので、特に教会の窓に使われるもの。 |
 | synthwave | 1980年代のアクション、SF、ホラー映画のサウンドトラックに関連した音楽を主なベースとする電子音楽のマイクロジャンルをイメージしたもの。 |
-| tilt-shift | "depth of field" に類似。していますが、上空あるいは高角度からの表現。 |
+| tilt-shift | `depth of field` に類似。していますが、上空あるいは高角度からの表現。 |
 | ultra photorealistic | `fine ultra-detailed realistic` に類似した表現になる。 |
 | Ultra wide lens --v 4 | 魚眼レンズ風 |
 | Ultra wide lens --v 5 --ar 16:9 | 広角レンズ風 |
