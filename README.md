@@ -4,6 +4,9 @@
 
 ## 基本パラメータ
 
+- 公式リファレンス  
+https://docs.midjourney.com/docs/parameter-list
+
 ### [Aspect Ratios](https://translate.google.com/translate?hl=ja&sl=auto&u=https%3A%2F%2Fdocs.midjourney.com%2Faspect-ratios) / アスペクト比
 
 #### `--aspect` または `--ar`
