@@ -174,9 +174,7 @@ Midjourneyはまず、各ジョブの低解像度イメージのグリッドを�
 
 ## Image Generation Cheatsheet
 
-Here are some common styles of image generation and their characteristics:
-
-
+ここでは、一般的な画像生成のスタイルとその特徴を紹介します：
 
 | Style | Description |
 | ----- | ----------- |
