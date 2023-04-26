@@ -225,6 +225,7 @@ Sameseedを指定すると、初期グリッド内のすべての画像で同じ
 | synthwave | 1980年代のアクション、SF、ホラー映画のサウンドトラックに関連した音楽を主なベースとする電子音楽のマイクロジャンルをイメージしたもの。 |
 | tilt-shift | `depth of field` に類似。していますが、上空あるいは高角度からの表現。 |
 | ultra photorealistic | `fine ultra-detailed realistic` に類似した表現になる。 |
+| gopro | 魚眼レンズ風（アクションカメラ系） |
 | Ultra wide lens --v 4 | 魚眼レンズ風 |
 | Ultra wide lens --v 5 --ar 16:9 | 広角レンズ風 |
 | watercolor sketch | 水彩画の作品を短時間で完成させる、ゆるやかでカジュアルなスタイル。 |
