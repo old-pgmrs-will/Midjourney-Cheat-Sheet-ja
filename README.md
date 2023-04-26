@@ -234,7 +234,9 @@ Sameseedを指定すると、初期グリッド内のすべての画像で同じ
 | wide-angle lens | 広角レンズによる近い距離からの撮影 |
 | long-range zoom | ロングレンジのズーム撮影 |
 | scene in the distance | やや遠くに存在する被写体の撮影 |
-| taken with a high-end mirrorless camera | ハイエンドミラーレスカメラでの撮影  |
+| taken with a high-end mirrorless camera | ハイエンドミラーレスカメラでの撮影 |
+| taken with a telephoto lens | 望遠レンズでの撮影 |
+| with cinematic lighting | 映画的なライティング。他の撮影設定と組み合わせる。 |
 | watercolor sketch | 水彩画の作品を短時間で完成させる、ゆるやかでカジュアルなスタイル。 |
 
 ## 参考文献
