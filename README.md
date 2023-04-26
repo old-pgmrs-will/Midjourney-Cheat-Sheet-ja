@@ -231,8 +231,11 @@ Sameseedを指定すると、初期グリッド内のすべての画像で同じ
 | gopro | 魚眼レンズ風（アクションカメラ系） |
 | Ultra wide lens --v 4 | 魚眼レンズ風 |
 | Ultra wide lens --v 5 --ar 16:9 | 広角レンズ風 |
+| wide-angle lens | 広角レンズによる近い距離からの撮影 |
+| long-range zoom | ロングレンジのズーム撮影 |
+| scene in the distance | やや遠くに存在する被写体の撮影 |
+| taken with a high-end mirrorless camera | ハイエンドミラーレスカメラでの撮影  |
 | watercolor sketch | 水彩画の作品を短時間で完成させる、ゆるやかでカジュアルなスタイル。 |
-
 
 ## 参考文献
 
