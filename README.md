@@ -1,4 +1,6 @@
+# Midjourney-Cheat-Sheet-ja
 
+![20230426-163501](https://user-images.githubusercontent.com/102408514/234503343-69d5eab4-7157-46fd-b60f-31a868abfd38.png)
 
 ## 基本パラメータ
 
